@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    cpaolatl	cptapia@minsait.com		@paola
 
 # THANKS
 
